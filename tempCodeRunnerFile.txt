@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="with=device-with, init">
+    <title>University Website Design - Easy Tutorials</title>
+</head>
+<body>
+
+</body>
+</html>
